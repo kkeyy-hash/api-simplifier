@@ -1,5 +1,6 @@
 # Roblox API Simplifier
 This repository is coded in Typescript and is fully self-coded by me (kkeyy)
+
 The purpose of this is:
 - To be able to fetch all roblox users (including thumbnails) by fragments of the provided username
 - To be able to fetch all public experiences (including thumbnails) by the provided username
