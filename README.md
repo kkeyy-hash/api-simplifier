@@ -12,5 +12,9 @@ I made this public so users who might have same ideas and need something like th
 2. Run 'npm install'
 3. Run 'npm start'
 
+# Endpoints
+- http://localhost:80/api/find-user-by-fragment/:Username
+- http://localhost:80/api/get-user-places/:Username
+
 # Dependencies
 This repository uses express, eslint and node-fetch
